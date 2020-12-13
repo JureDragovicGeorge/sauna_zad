@@ -25,6 +25,8 @@ public class ASCIIMapAnalyzer {
     private Position currentPosition;
     private Map<Position, Boolean> usedPositions = new HashMap<>();
 asdasdasd
+
+    asdasdasdasdadasdasdasdasd
     public ASCIIMapAnalyzer(String filePath) {
         this.filePath = filePath;
     }
